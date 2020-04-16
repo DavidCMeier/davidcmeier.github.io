@@ -1,3 +1,8 @@
+- organization: Asturias NetConf
+  role: Profesor de taller
+  year: 2020
+  summary: Realización de un taller de hora y media sobre Angular Universal, aplicandolo a un proyecto sencillo, viendo por el camino que es el SSR, las ventajas de este y los distintos problemas que pueden surgir.
+
 - organization: Hackathon PEUM
   role: 1º Puesto
   year: Online 2019
