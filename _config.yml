@@ -1,15 +1,15 @@
 # Site settings
-title: "Miguel Ángel Abellán"
-description: "Programador por profesión, mentor de programación por vocación."
+title: "David Calvo Meier"
+description: "Programador y Director"
 
 # Resume settings
-resume_name: Miguel Ángel Abellán
+resume_name: David Calvo Meier
 resume_title: Desarrollador web
-resume_header_intro: "Programador por profesión, mentor de programación por vocación. Cofundador Iniciativa Programo Ergo Sum, Presidente CoderDojo España, #maker y más cosillas."
+resume_header_intro: "Programador reconvertido desde el mundo del teatro. Aficionado a la tecnología desde mi primer 386."
 resume_social:
-  github: https://github.com/migueabellan
-  twitter: http://twitter.com/migueabellan
-  linkedin: https://www.linkedin.com/in/migueabellan
+  github: https://github.com/davidcmeier
+  twitter: http://twitter.com/davidcmeier
+  linkedin: https://www.linkedin.com/in/davidcmeier
 
 # Build settings
 markdown: kramdown

@@ -1,24 +1,17 @@
-- company: Programador backend y frontend
-  position: Profesional independiente
-  duration: Mayo, 2009 &mdash; Actualidad
-  summary: Desarrollo de aplicaciones web y sistemas informáticos.
+- company: Racetick S.L.
+  position: Desarrollador FrontEnd
+  duration: Octubre, 2019 &mdash; Actualidad
+  summary: Desarrollo de la parte front de la web <a href="https://racetick.com" target="_blank">Racetick.com</a> y de las las aplicaciones internas.
   items:
-    - Backend, PHP7 Symfony
-    - Frontend, JS Vue.js, Nuxt.js
-    - SysAdmin Linux, DevOps, Docker
+    - Front, Angular 8 y 9, Typescript
+    - Backend, Node
+    - Base de datos, MongoDb
 
-- company: Profesor de programación y robótica
-  position: Profesional independiente
-  duration: Abril, 2015 &mdash; Actualidad
-  summary: Programación y robótica educativa desde cero.
+- company: Cosentino S.A.
+  position: Desarrollador Fullstack
+  duration: Octubre, 2017 &mdash; octubre,20019
+  summary: desarrollo de la nueva intranet corporativa realizando aplicaciones diversas como un gestor de roles (Desarrollada en Java / Spring e Ionic 4), un gestor de proyector (Desarrollada en Java / Spring e Ionic 3) y una aplicación de solicitud de menús para los empleados (Ionic 3). También he dado soporte general a todo el conjunto de aplicaciones de la intranet.
   items:
-    - Introducción a la programación
-    - Programación orientada a objetos
-    - Buenas prácticas de programación
-    - Desarrollo de aplicaciones web
-    - Aplicación de la robótica educativa
-
-- company: Formador en Arduino
-  position: Arduino Education CTC 101
-  duration: Curso 2018 / 2019
-  summary: Formador en Arduino Education para el programa educativo "Clases de Tecnologías Creativas (CTC)" a través del proyecto "Escuela del Pensamiento Computacional" del Ministerio de Educación y Formación Profesional INTEF.
+    - Front, Angular 4,5,6 y 7, Ionic 3 y 4,  Typescript
+    - Backend Java 8, Spring
+    - Base de datos, MySql

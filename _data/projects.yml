@@ -1,27 +1,14 @@
-- project: Programo Ergo Sum
-  role: Cofundador de la Asociación
-  duration: 2015 &mdash; Actualidad
-  description: Iniciativa sin ánimo de lucro que pretende acercar la programación de ordenadores, electrónica, robótica y nuevas tecnologías a todas las edades.
+- project: Asociación de Divulgación Científica de la región de Murcia
+  role: Secretario y fundador
+  duration: 2013 &mdash; 2014
+  description: Iniciativa sin ánimo de lucro que pretende acercar la ciencia y nuevas tecnologías a todas las edades.
   items:
-    - <a href="https://www.programoergosum.es" target="_blank">Programo Ergo Sum</a>
+    - <a href="http://murciadivulga.com" target="_blank">ADCMurcia</a>
 
-- project: Aprende Programando
-  role: Creador de la plataforma
-  duration: 2015 &mdash; Actualidad
-  description: Plataforma de aprendizaje STEM a través de la programación en los lenguajes de programación Blockly, Python y JavaScript en distintos niveles de ESO y Bachiller.
+- project: Centro de investigación y divulgación de astronomía del mediterráneo
+  role: Socio
+  duration: 2011 &mdash; Actualidad
+  description: Asociación de astronomía que organiza eventos de divulgación astronómica.
   items:
-    - <a href="https://www.aprendeprogramando.es" target="_blank">Aprende Programando</a>
+    - <a href="http://www.cidam.es/" target="_blank">CIDAM</a>
 
-- project: CoderDojo España
-  role: Presidente de la Asociación
-  duration: 2015 &mdash; Actualidad
-  description: Agrupación informal de dojos o clubes gratuitos de programación activos en territorio español.
-  items:
-    - <a href="https://www.coderdojo.es" target="_blank">CoderDojo España</a>
-
-- project: El Cable Amarillo
-  role: Elaborador del material
-  duration: 2016 &mdash; abril, 2020
-  description: Elaborador del material para docentes del proyecto educativo para fomentar el uso de la Programación y Robótica en los centros educativos.
-  items:
-    - <a href="https://github.com/elcableamarillo" target="_blank">El Cable Amarillo</a>
