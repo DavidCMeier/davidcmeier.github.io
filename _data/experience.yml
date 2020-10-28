@@ -1,7 +1,7 @@
 - company: Racetick S.L.
   position: Desarrollador FrontEnd
   duration: Octubre, 2019 &mdash; Actualidad
-  summary: Desarrollo de la parte front de la web <a href="https://racetick.com" target="_blank">Racetick.com</a> y de las las aplicaciones internas.
+  summary: Desarrollo de la parte front de la web <a href="https://racetick.com" target="_blank">Racetick.com</a> y de las aplicaciones internas.
   items:
     - "Frontend: Angular 8 y 9, Angular universal (SSR), Typescript, consumo de APIs internas y externas, HTML, CSS3, SCSS"
     - "Backend: Node"
@@ -11,7 +11,7 @@
 - company: Cosentino S.A.
   position: Desarrollador Fullstack
   duration: Octubre, 2017 &mdash; octubre, 2019
-  summary: Desarrollo de la nueva intranet corporativa realizando aplicaciones diversas como un gestor de roles (Desarrollada en Java / Spring e Ionic 4), un gestor de proyector (Desarrollada en Java / Spring e Ionic 3) y una aplicación de solicitud de menús para los empleados (Ionic 3). También he dado soporte general a todo el conjunto de aplicaciones de la intranet.
+  summary: Desarrollo de la intranet corporativa realizando aplicaciones diversas como un gestor de roles (Desarrollada en Java / Spring e Ionic 4), un gestor de proyector (Desarrollada en Java / Spring e Ionic 3) y una aplicación de solicitud de menús para los empleados (Ionic 3). También he dado soporte general a todo el conjunto de aplicaciones de la intranet.
   items:
     - "Frontend: Angular 4,5,6 y 7, Ionic 3 y 4, Typescript"
     - "Backend: Java 8, Spring, Maven"
