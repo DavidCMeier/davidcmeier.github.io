@@ -1,7 +1,16 @@
+- company: Plain Concepts
+  position: Software Developer
+  duration: Julio, 2021 &mdash; Actualidad
+  summary: Desarrollo especializado en frontend y gestión de proyectos. He dado formaciones de Angular.
+  items:
+    - "Frontend: Angular 11 en adelante, webcomponentes, canvas, reproductor de vídeo web para visualizar h264, Typescript, consumo de APIs internas y externas, HTML, CSS3, SCSS"
+    - "Base de datos: Sql Server"
+    - "Otros: Azure cloud, aks, pruebas unitarias y de integración con Jest, Webstorm IDE, Clean Code, Git"
+
 - company: Racetick S.L.
   position: Desarrollador FrontEnd
-  duration: Octubre, 2019 &mdash; Actualidad
-  summary: Desarrollo de la parte front de la web <a href="https://racetick.com" target="_blank">Racetick.com</a> y de las aplicaciones internas.
+  duration: Octubre, 2019 &mdash; Julio, 2021
+  summary: Desarrollo de la parte front de la web y de las aplicaciones internas.
   items:
     - "Frontend: Angular 8 y 9, Angular universal (SSR), Typescript, consumo de APIs internas y externas, HTML, CSS3, SCSS"
     - "Backend: Node"
