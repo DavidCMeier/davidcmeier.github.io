@@ -1,3 +1,2 @@
 # app-ads.txt for apps published by David Calvo Meier (Mandu).
-# Add the line AdMob gives you (Apps › View all apps › app-ads.txt), e.g.:
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-6188238701928488, DIRECT, f08c47fec0942fa0
